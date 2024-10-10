@@ -1,0 +1,22 @@
+Droid(B) attacks Droid(S) and deals 20 damage.
+Droid(S) has been destroyed.
+Droid(S) attacks Droid(B) and deals 5 damage.
+Droid(B) attacks S2_Dr and deals 10 damage.
+S2_Dr heals itself.
+Droid(B) attacks S2_Dr and deals 3 damage.
+S2_Dr attacks Droid(B) and deals 6 damage.
+Droid(B) attacks S2_Dr and deals 20 damage.
+S2_Dr attacks Droid(B) and deals 10 damage.
+Droid(B) attacks S2_Dr and deals 5 damage.
+S2_Dr attacks Droid(B) and deals 9 damage.
+Droid(B) attacks S2_Dr and deals 8 damage.
+S2_Dr heals itself.
+Droid(B) attacks S2_Dr and deals 20 damage.
+S2_Dr attacks Droid(B) and deals 10 damage.
+Droid(B) attacks S2_Dr and deals 14 damage.
+S2_Dr heals itself.
+Droid(B) attacks S2_Dr and deals 19 damage.
+S2_Dr attacks Droid(B) and deals 8 damage.
+Droid(B) attacks S2_Dr and deals 20 damage.
+S2_Dr has been destroyed.
+Team 1 wins the battle.

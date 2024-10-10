@@ -1,0 +1,48 @@
+2 attacks 3 and deals 19 damage.
+3 attacks 2 and deals 18 damage.
+2 attacks 3 and deals 14 damage.
+3 attacks 2 and deals 16 damage.
+2 attacks 3 and deals 20 damage.
+3 attacks 2 and deals 20 damage.
+2 attacks 3 and deals 7 damage.
+3 attacks 2 and deals 20 damage.
+2 attacks 3 and deals 1 damage.
+3 attacks 2 and deals 10 damage.
+2 attacks 3 and deals 20 damage.
+3 attacks 2 and deals 20 damage.
+2 has been destroyed.
+1 heals itself.
+3 attacks 1 and deals 2 damage.
+1 heals itself.
+3 attacks 1 and deals 2 damage.
+1 attacks 3 and deals 10 damage.
+3 attacks 1 and deals 20 damage.
+1 attacks 3 and deals 1 damage.
+3 attacks 1 and deals 1 damage.
+1 heals itself.
+3 attacks 1 and deals 0 damage.
+1 attacks 3 and deals 10 damage.
+3 has been destroyed.
+3 attacks 1 and deals 20 damage.
+1 attacks 4 and deals 7 damage.
+4 attacks 1 and deals 9 damage.
+1 attacks 4 and deals 6 damage.
+4 attacks 1 and deals 2 damage.
+1 attacks 4 and deals 10 damage.
+4 attacks 1 and deals 10 damage.
+1 attacks 4 and deals 4 damage.
+4 attacks 1 and deals 6 damage.
+1 attacks 4 and deals 9 damage.
+4 attacks 1 and deals 2 damage.
+1 attacks 4 and deals 10 damage.
+4 heals itself.
+1 attacks 4 and deals 5 damage.
+4 heals itself.
+1 attacks 4 and deals 5 damage.
+4 attacks 1 and deals 6 damage.
+1 attacks 4 and deals 10 damage.
+4 attacks 1 and deals 10 damage.
+1 attacks 4 and deals 2 damage.
+4 attacks 1 and deals 7 damage.
+1 has been destroyed.
+Team 2 wins the battle.
